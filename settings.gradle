@@ -1,0 +1,2 @@
+include ':app', ':Android_hw07'
+rootProject.name='Android_hw 07'
